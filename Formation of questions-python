@@ -1,0 +1,8 @@
+#Formation of questions
+
+a = (input("what is your first firt_name? :" ))
+b = (input("what is your second last_name? :" ))
+
+print  ("........................")
+print ( "you are  welcome" )
+print( a , b)

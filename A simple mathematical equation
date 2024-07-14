@@ -6,6 +6,6 @@ b = 50
 x = (a ==b )
 
 print  ("........................")
-print ( "The result is : " )
+print ( "The result  : " )
 
 print( x )

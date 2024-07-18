@@ -1,0 +1,14 @@
+ first_number = 100
+second_number = 200
+
+# - + / > < * == !=
+if first_number < second_number :
+    print("yes")
+
+elif first_number == second_number :
+    print("=")
+elif first_number != second_number:
+    print("!=")
+
+else:
+    print('no')
